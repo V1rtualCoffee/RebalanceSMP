@@ -1,0 +1,13 @@
+{
+  "itemGroup.rebalancesmp": "Example Mod Tab",
+  "block.rebalancesmp.example_block": "Example Block",
+  "item.rebalancesmp.example_item": "Example Item",
+
+  "rebalancesmp.configuration.title": "Rebalance SMP Configs",
+  "rebalancesmp.configuration.section.rebalancesmp.common.toml": "Rebalance SMP Configs",
+  "rebalancesmp.configuration.section.rebalancesmp.common.toml.title": "Rebalance SMP Configs",
+  "rebalancesmp.configuration.items": "Item List",
+  "rebalancesmp.configuration.logDirtBlock": "Log Dirt Block",
+  "rebalancesmp.configuration.magicNumberIntroduction": "Magic Number Text",
+  "rebalancesmp.configuration.magicNumber": "Magic Number"
+}
